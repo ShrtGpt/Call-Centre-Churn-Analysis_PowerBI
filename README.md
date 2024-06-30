@@ -18,9 +18,9 @@ This task requires you to write an email to the engagement partner, explaining t
 Task 4: Diversity & Inclusion
 Gender balance in the executive suite:
 This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. Calculating the following measures could help to define proper KPIs:
-# of men
-# of women
-# of leavers
+#of men
+#of women
+#of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
