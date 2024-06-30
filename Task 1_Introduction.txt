@@ -1,0 +1,7 @@
+I wish to learn and step up my skills of Power BI, rather I should say uplift my data visualization techniques.
+
+But during this experience with you, I hope to deepen my understanding of Power BI in several key areas: 
+connecting to various data sources, and mastering techniques for cleaning, transforming, and preparing data for analysis using Power Query. 
+I aim to learn best practices for designing and optimizing data models, as well as understanding DAX (Data Analysis Expressions) for creating measures and calculated columns. Additionally, I seek to create impactful and interactive visualizations and design comprehensive, user-friendly reports and dashboards. I want to implement advanced analytics features such as AI visuals and custom visualizations, and utilize Power BI's integration with other Microsoft tools for enhanced analytics. 
+
+Furthermore, I am ready to learn whatever this course grants and apply in real world projects.
